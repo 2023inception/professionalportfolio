@@ -1,0 +1,32 @@
+* {
+    font: aerial;
+}
+
+
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+.AboutMe {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    height: auto; 
+}
+.WorkHistory {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    height: 200px; 
+}
+
+.Portfolio {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    height: 200px; 
+}
+.ContactMe {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    height: 200px; 
+}
